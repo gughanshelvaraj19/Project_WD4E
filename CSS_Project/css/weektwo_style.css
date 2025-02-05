@@ -25,10 +25,10 @@ nav > ul{
 }
 
 nav li > a{
-    color: darkgreen;
+    color: black;
     padding: 2%;
     text-decoration:none;
-    font-size: 80%;
+    font-size: 100%;
 }
 
 nav img {
